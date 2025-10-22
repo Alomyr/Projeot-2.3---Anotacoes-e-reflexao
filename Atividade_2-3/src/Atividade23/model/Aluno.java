@@ -1,3 +1,4 @@
+package Atividade23.model;
 
 @InfoAutor(nome = "Matheus Castro", data = "22/10/2025")
 public class Aluno {

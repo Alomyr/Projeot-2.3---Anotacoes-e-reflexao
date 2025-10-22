@@ -1,3 +1,4 @@
+package Atividade23.model;
 import java.lang.annotation.*;
 
 @Target(ElementType.TYPE)//permite q seja aplicado em class

@@ -1,4 +1,6 @@
+package Atividade23.Repository;
 
+import Atividade23.model.InfoAutor;
 import java.util.ArrayList;
 import java.util.List;
 

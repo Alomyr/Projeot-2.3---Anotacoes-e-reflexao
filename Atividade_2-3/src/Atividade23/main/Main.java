@@ -1,4 +1,8 @@
+package Atividade23.main;
 
+import Atividade23.Repository.Repositorio;
+import Atividade23.model.Aluno;
+import Atividade23.model.InfoAutor;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 

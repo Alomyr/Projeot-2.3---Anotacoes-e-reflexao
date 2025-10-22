@@ -6,8 +6,9 @@ public class Main {
 
     public static void main(String[] args) {
 
+        // Campo onde tem as annotation e o uso das  Reflection     
         try {
-            Class<?>[] clazz = {Aluno.class, Repositorio.class};
+            Class<?>[] clazz = {Aluno.class, Repositorio.class}; // vetor onde esta as classe q ele vai analizar para saber se contem a anotacao InfoAutor
             for (Class<?> claz : clazz) {
                 InfoAutor info = claz.getAnnotation(InfoAutor.class);
 

@@ -1,4 +1,7 @@
 
+
+Foi usado o projeto 2.2 para realizar a implementacao das annotation, Reflection introduzidos na main
+
 Nome da Tarefa:
 Projeto 2.3 – Anotações e Reflexão (1 pts)
 Descrição:

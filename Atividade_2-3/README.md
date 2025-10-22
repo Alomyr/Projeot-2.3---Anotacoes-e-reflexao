@@ -1,18 +1,42 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Nome da Tarefa:
+Projeto 2.3 – Anotações e Reflexão (1 pts)
+Descrição:
 
-## Folder Structure
+Projeto 2.3 – Anotações e Reflexão (1 pts)
 
-The workspace contains two folders by default, where:
+ 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Entrega: 26/10/2025
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+ 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Aulas relacionadas:
 
-## Dependency Management
+16/10 – Anotações (Annotations)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+21/10 – Reflexão (Reflection) e metaprogramação básica
+
+ 
+
+Crie uma anotação @InfoAutor que contenha os atributos:
+
+String nome()
+
+String data()
+
+Aplique essa anotação em pelo menos duas classes do sistema.
+
+Depois, use Reflexão para, em tempo de execução, verificar quais classes possuem a anotação e imprimir as informações no console.
+
+ 
+
+Critérios de Avaliação (2 pts)
+
+0,25 pt → Definiu corretamente a anotação @InfoAutor.
+
+0,25 pt → Aplicou a anotação em pelo menos duas classes.
+
+0,25 pt → Usou reflexão para recuperar os dados da anotação.
+
+0,25 pt → Exibiu corretamente os resultados no console.
